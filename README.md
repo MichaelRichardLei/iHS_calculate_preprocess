@@ -1,7 +1,7 @@
 # iHS_calculate_preprocess
 This is my first time using github, so there will definitely be many problems，I will keep updating, suggestion is welcomed.
 
-This is just a record of my project. If anyone are interested but have problems to use, just contact me.
+This is just a record of my project, if anyone are interested but can't use it, just contact me.
 
 ###############################################################################################
 
