@@ -1,6 +1,6 @@
 #Program:
-	#Extract Ancestral Allele from vcf gz file according to position
-	#files: 1). 1.vcf.gz	2). position.txt
+	#Extract Ancestral Allele from vcf gz file(1000 Genome)
+	#files: 1). 1.vcf.gz
 #History:
 #	2019/01/08	MichaelLei	Haven't Release
 #	2019/01/11	MichaelLei	Add get_file_name_from_dir()/Modify extract_AA()
